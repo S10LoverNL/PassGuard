@@ -71,7 +71,7 @@ Launch the app and navigate the intuitive menu:
 
 ```
 ╔══════════════════════════════════════╗
-║             Hoofdmenu                ║
+║                Menu                  ║
 ╠══════════════════════════════════════╣
 ║  1. Password Generator               ║
 ║  2. Password Checker                 ║

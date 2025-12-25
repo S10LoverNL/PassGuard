@@ -107,4 +107,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ---
 
-**Made with ❤️ for cybersecurity enthusiasts**
+**Made with ❤️**
